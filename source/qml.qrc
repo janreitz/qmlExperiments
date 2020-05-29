@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TestRect.qml</file>
+        <file>LayoutTest.qml</file>
+        <file>DragTest.qml</file>
+        <file>ButtonTest.qml</file>
+        <file>TilingWithAnchorsTest.qml</file>
+        <file>TilingDivider.qml</file>
+        <file>DynamicTilingWithAnchorsTest.qml</file>
+        <file>DynamicTilingWithAnchors.js</file>
+        <file>TestTile.qml</file>
+    </qresource>
+</RCC>
